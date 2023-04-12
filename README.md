@@ -19,3 +19,6 @@ OR
 ```npx cypress run```
 OR
 ```npm run cypress:run```
+
+## Test Cases
+![alt text](https://github.com/cheongsy/cypress_tests_poll_voting/blob/main/home-page-test-cases.jpg)
