@@ -7,15 +7,15 @@
 1. Navigate to the project path. (E.g. C:\MyGitRepositories\cypress_tests_poll_voting)
 2. To reinstall packages, run this command: npm install
 3. To open cypress test runner, run this command:
-* npx cypress open
+* ```npx cypress open```
 OR
-npm run cypress:open
+```npm run cypress:open```
 4. Select E2E Testing > Chrome browser > any portal to start test
 
 
 ## How to run tests in headless mode
 1. Navigate to the project path. (E.g. C:\MyGitRepositories\cypress_tests_poll_voting)
 2. Run this command: 
-npx cypress run
+```npx cypress run```
 OR
-npm run cypress:run
+```npm run cypress:run```
