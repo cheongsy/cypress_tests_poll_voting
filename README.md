@@ -22,3 +22,5 @@ OR
 
 ## Test Cases
 ![alt text](https://github.com/cheongsy/cypress_tests_poll_voting/blob/main/home-page-test-cases.jpg)
+![alt text](https://github.com/cheongsy/cypress_tests_poll_voting/blob/main/results-test-cases.jpg)
+![alt text](https://github.com/cheongsy/cypress_tests_poll_voting/blob/main/voting-test-cases.jpg)
